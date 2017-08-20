@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{8964F3F8-4447-4AD0-3388-8EBC6B3157B1}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TwitchOverlay",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"UMG"
+			]
+		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
+	]
+}
