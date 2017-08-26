@@ -1,8 +1,5 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-#include "TwitchOverlayGameModeBase.h"
+#pragma once
 
-
-
-
-
+DECLARE_LOG_CATEGORY_EXTERN(LogUE4TransparentCamera, Log, All);

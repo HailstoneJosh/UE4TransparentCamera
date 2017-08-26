@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class TwitchOverlay : ModuleRules
+public class UE4TransparentCamera : ModuleRules
 {
-	public TwitchOverlay(ReadOnlyTargetRules Target) : base(Target)
+	public UE4TransparentCamera(ReadOnlyTargetRules Target) : base(Target)
     {
         bEnforceIWYU = true;
 
